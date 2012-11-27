@@ -1,6 +1,0 @@
-<UID>
-<ID>
-<Name>
-<WBS>
-<Start>
-<Finish>
