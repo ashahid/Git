@@ -2,3 +2,4 @@ sample coding
 successfully pushed the files remotely
 opened the files and edited
 then commit the changed
+cheking the next version
